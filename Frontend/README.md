@@ -5,6 +5,7 @@
 
 An innovative and stylish web application that facilitates a community-driven clothing exchange. Users can list their pre-loved clothing items for trade or sale, discover unique pieces from others, and contribute to a more sustainable fashion ecosystem.
 <img width="959" height="473" alt="image" src="https://github.com/user-attachments/assets/72b2bb56-cdb6-4679-820e-6f893bea4dca" />
+<img width="947" height="473" alt="image" src="https://github.com/user-attachments/assets/4e31c5a7-18d4-43ff-8196-e1af6c6aceac" />
 
 ---
 
