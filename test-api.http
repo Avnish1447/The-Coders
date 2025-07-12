@@ -1,0 +1,40 @@
+### ✅ Register a User
+POST http://localhost:3000/api/auth/register
+Content-Type: application/json
+
+{
+  "name": "Mahaveer Pandey",
+  "email": "mahaveer@example.com",
+  "password": "12345678"
+}
+
+### ✅ Login (Get JWT Token)
+POST http://localhost:3000/api/auth/login
+Content-Type: application/json
+
+{
+  "email": "mahaveer@example.com",
+  "password": "12345678"
+}
+
+### ✅ Get All Items (Public)
+GET http://localhost:3000/api/items
+
+### ✅ Add an Item (Needs Token)
+POST http://localhost:3000/api/items
+Content-Type: application/json
+Authorization: Bearer <PUT-YOUR-JWT-TOKEN-HERE>
+
+{
+  "title": "Denim Jacket",
+  "description": "Gently worn, size M",
+  "category": "Jackets",
+  "type": "Topwear",
+  "size": "M",
+  "condition": "Good",
+  "tags": ["blue", "winter", "denim"],
+  "images": ["https://example.com/denim.jpg"]
+}
+
+### ✅ Check Health
+GET http://localhost:3000/api/health
