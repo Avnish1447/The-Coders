@@ -4,8 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 An innovative and stylish web application that facilitates a community-driven clothing exchange. Users can list their pre-loved clothing items for trade or sale, discover unique pieces from others, and contribute to a more sustainable fashion ecosystem.
-
-![ReWear Homepage](https://placehold.co/1200x600.png?text=ReWear+App+Screenshot)
+<img width="959" height="473" alt="image" src="https://github.com/user-attachments/assets/72b2bb56-cdb6-4679-820e-6f893bea4dca" />
 
 ---
 
